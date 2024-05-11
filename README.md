@@ -85,7 +85,7 @@ Delve into our repositories to unravel the intricate mechanisms powering the Job
    
 Check out the repository and connect with me for help.😁
 <p align="left">
-<a href="https://linkedin.com/in/khushi-srivastava-ab029621b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/pulkitkmathur/](https://linkedin.com/in/khushi-srivastava-ab029621b/)"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:srivastavakhushi582@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
